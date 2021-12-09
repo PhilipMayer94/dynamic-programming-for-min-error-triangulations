@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/philip/Desktop/eclipse_workspace/dynamic_programming_for_MTWT/libraries/delaunay-triangulation-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/philip/Desktop/eclipse_workspace/dynamic_programming_for_MTWT/libraries/jts-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/philip/Desktop/eclipse_workspace/dynamic_programming_for_MTWT/libraries/netcdfAll-4.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/philip/Desktop/eclipse_workspace/dynamic_programming_for_MTWT/libraries/netcdfAll-5.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
