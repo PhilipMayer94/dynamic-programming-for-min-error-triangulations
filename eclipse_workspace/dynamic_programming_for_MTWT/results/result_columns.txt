@@ -1,0 +1,5 @@
+For the reconstruction_experiments we get the following columns:
+trainingEpoch, reconstructionEpoch, anchorLongitude, anchorLatitude, BLANK, order, instanceSize, averageNrOfConnectedComponents, cmax, BLANK, trainingError, errorForDelaunayWithTrainingData, reconstructionError, errorForDelaunayWithReconstructionData, BLANK, weightPreprocessingTime, geometricPreprocessingTime, optimizationTime, temporalDifference
+
+For the fixed edge graph experiments we get the following columns:
+order, instanceSize, overallNumberOfCC, avgNumberOfCC,cmax
